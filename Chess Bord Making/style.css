@@ -1,0 +1,18 @@
+
+table{
+	border: 1px solid black;
+}
+table tr .new{
+	background: black;
+	height: 50px;
+	width: 50px;
+	
+}
+table tr td{
+	background: white;
+	height: 50px;
+	width: 50px;
+	border: 2px solid black;
+	
+}
+
